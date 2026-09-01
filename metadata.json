@@ -1,0 +1,6 @@
+{
+  "name": "Little Panda | Kids Clothing",
+  "description": "Discover Little Panda kidswear — stylish dresses, co-ord sets, girlswear and ethnic-inspired outfits for little ones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
